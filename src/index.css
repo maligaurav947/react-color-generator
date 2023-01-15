@@ -3,14 +3,23 @@
 @tailwind utilities;
 
 * {
-  margin: 0 ;
-  padding: 0 ;
+  margin: 0;
+  padding: 0;
   box-sizing: border-box;
 }
 
-
-.main-container div{
-width: 20vw !important;
-
+.main-container div {
+  width: 20vw !important;
   height: 80vh !important;
+}
+
+@media (max-width: 1024px) {
+  @media (max-width: 1280px) {
+    @media (max-width: 768px) {
+      .main-container div {
+        width: 100vw !important;
+        height: 15vh !important;
+      }
+    }
+  }
 }

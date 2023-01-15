@@ -26,8 +26,8 @@ function ColorPalette() {
       hexcolor;
   }
   return (
-    <div className="max-h-full justify-center mb-2 mt-2 flex items-center flex-col gap-5">
-      <div className="flex items-center main-container">
+    <div className="max-h-full justify-center mb-2  flex items-center flex-col gap-5">
+      <div className="grid lg:xl:md:flex items-center main-container">
         <div id="radomcolorgenerator"></div>
         <div id="radomcolorgenerator2"></div>
         <div id="radomcolorgenerator3"></div>
@@ -36,7 +36,7 @@ function ColorPalette() {
       </div>
       <button
         onClickCapture={change}
-        className="bg-slate-700 text-white p-2 rounded-md hover:bg-slate-300 hover:text-black"
+        className="bg-slate-700 text-white p-2  rounded-md hover:bg-slate-300 hover:text-black"
       >
         Random Color
       </button>
