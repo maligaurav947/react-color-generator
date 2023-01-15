@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0 ;
+  padding: 0 ;
+  box-sizing: border-box;
+}
+
+
+.main-container div{
+width: 20vw !important;
+
+  height: 80vh !important;
+}
