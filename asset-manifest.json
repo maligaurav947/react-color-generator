@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/react-color-generator/static/css/main.915c424b.css",
-    "main.js": "/react-color-generator/static/js/main.03a96271.js",
+    "main.css": "/react-color-generator/static/css/main.1cc6f023.css",
+    "main.js": "/react-color-generator/static/js/main.674b515a.js",
     "index.html": "/react-color-generator/index.html",
-    "main.915c424b.css.map": "/react-color-generator/static/css/main.915c424b.css.map",
-    "main.03a96271.js.map": "/react-color-generator/static/js/main.03a96271.js.map"
+    "main.1cc6f023.css.map": "/react-color-generator/static/css/main.1cc6f023.css.map",
+    "main.674b515a.js.map": "/react-color-generator/static/js/main.674b515a.js.map"
   },
   "entrypoints": [
-    "static/css/main.915c424b.css",
-    "static/js/main.03a96271.js"
+    "static/css/main.1cc6f023.css",
+    "static/js/main.674b515a.js"
   ]
 }
