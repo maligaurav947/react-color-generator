@@ -7,7 +7,7 @@ function App() {
       <a
         href="https://maligaurav947.github.io/Portfolio/"
         target={"_blank"}
-        className="absolute bottom-5 right-5 text-5xl font-extrabold"
+        className="absolute bottom-1 right-2 text-4xl font-extrabold"
       >
         me
       </a>
