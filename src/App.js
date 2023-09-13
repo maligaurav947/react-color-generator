@@ -8,6 +8,7 @@ function App() {
         href="https://maligaurav947.github.io/Portfolio/"
         target={"_blank"}
         className="absolute bottom-1 right-2 text-4xl font-extrabold"
+        rel="noreferrer"
       >
         me
       </a>
