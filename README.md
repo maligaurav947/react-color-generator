@@ -7,16 +7,12 @@ A Simple React Color Generator App
 
 See it Live [HERE](https://maligaurav947.github.io/react-color-generator/) 
 
-## Help Center
-  
-  1. The Code Need To Optimization
-      ```bash
-           var color = Math.floor(Math.random() * 16777215).toString(16);
-           var hexcolor = "#" + color;
-           document.getElementById("radomcolorgenerator").style.backgroundColor = hexcolor;
-      ```
-      This Piece Of Code I Need To Write 5 Time For Palette
+## Contribution
 
+ [prathamsuroshi](https://github.com/prathamsuroshi) 
+   ```bash
+      code optimization
+   ```
 
 ## Version
 
